@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cca9e1d-1fda-4f3f-992e-dc38feb04041" name="Changes" comment="" />
+    <list default="true" id="8cca9e1d-1fda-4f3f-992e-dc38feb04041" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Методические_указания_Прикладной_уровень.md" beforeDir="false" afterPath="$PROJECT_DIR$/Методические_указания_Прикладной_уровень.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="tsconfig.json" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,23 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
-    "ignore_missing_gitignore": "true",
-    "javascript.nodejs.core.library.configured.version": "18.15.0",
-    "javascript.nodejs.core.library.typings.version": "",
-    "last_opened_file_path": "/home/ivan/work/NetworkingProject/NetworkTermProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/home/ivan/work/NetworkingProject/NetworkTermProject/WebSocketServer/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.15.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ivan/work/NetworkingProject/NetworkTermProject&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/ivan/work/NetworkingProject/NetworkTermProject/WebSocketServer/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MockServer" />
@@ -68,6 +75,8 @@
       <updated>1716138362278</updated>
       <workItem from="1716138363313" duration="4060000" />
       <workItem from="1716142433199" duration="4331000" />
+      <workItem from="1716212445581" duration="19758000" />
+      <workItem from="1716474311924" duration="747000" />
     </task>
     <servers />
   </component>
