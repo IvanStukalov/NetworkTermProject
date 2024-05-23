@@ -32,6 +32,7 @@ function App() {
     ws.onmessage = function (event) {
       const msgString = event.data;
       const message = JSON.parse(msgString);
+      console.log(message)
 
       console.log('MessageCard from server:', message);
 
