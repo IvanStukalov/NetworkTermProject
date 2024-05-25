@@ -4,9 +4,9 @@ import http from 'http';
 import ws, { type WebSocket } from 'ws';
 
 const port: number = 8001; // порт на котором будет развернут этот (вебсокет) сервер
-const hostname = 'localhost'; // адрес вебсокет сервера
-const transportLevelPort = 8002; // порт мок-сервера (когда будет коллаб с транспортным уровнем, то его порт)
-const transportLevelHostname = 'localhost'; // адрес мок-сервера (или транспортного уровня)
+const hostname = '192.168.0.155'; // адрес вебсокет сервера
+const transportLevelPort = 8080; // порт сервера транспортного уровня
+const transportLevelHostname = '192.168.0.115'; // адрес сервера транспортного уровня
 
 interface Message {
   id?: number
@@ -87,6 +87,8 @@ wss.on('connection', (websocketConnection: WebSocket, req: Request) => {
   } else {
     console.log('[open] Connected')
   }
+
+  console.log('users collection', users)
 
   websocketConnection.on('message', (messageString: string) => {
     console.log('[message] Received from ' + username + ': ' + messageString)

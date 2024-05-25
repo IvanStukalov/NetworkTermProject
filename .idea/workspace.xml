@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cca9e1d-1fda-4f3f-992e-dc38feb04041" name="Changes" comment="add postman section">
-      <change afterPath="$PROJECT_DIR$/assets/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img_5.png" afterDir="false" />
+    <list default="true" id="8cca9e1d-1fda-4f3f-992e-dc38feb04041" name="Changes" comment="fixed report">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Методические_указания_Прикладной_уровень.md" beforeDir="false" afterPath="$PROJECT_DIR$/Методические_указания_Прикладной_уровень.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocketServer/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocketServer/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +78,11 @@
       <workItem from="1716142433199" duration="4331000" />
       <workItem from="1716212445581" duration="19758000" />
       <workItem from="1716474311924" duration="1224000" />
-      <workItem from="1716475589759" duration="3826000" />
+      <workItem from="1716475589759" duration="4162000" />
+      <workItem from="1716578338662" duration="3155000" />
+      <workItem from="1716624896462" duration="986000" />
+      <workItem from="1716629907567" duration="4504000" />
+      <workItem from="1716718040606" duration="345000" />
     </task>
     <task id="LOCAL-00001" summary="change md">
       <option name="closed" value="true" />
@@ -119,7 +116,39 @@
       <option name="project" value="LOCAL" />
       <updated>1716475657682</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add postman section">
+      <option name="closed" value="true" />
+      <created>1716479421063</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716479421063</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change hint position">
+      <option name="closed" value="true" />
+      <created>1716479475472</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716479475472</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed port">
+      <option name="closed" value="true" />
+      <created>1716631455556</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716631455556</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed report">
+      <option name="closed" value="true" />
+      <created>1716633319939</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716633319939</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +168,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change md" />
     <MESSAGE value="add postman section" />
-    <option name="LAST_COMMIT_MESSAGE" value="add postman section" />
+    <MESSAGE value="change hint position" />
+    <MESSAGE value="fixed port" />
+    <MESSAGE value="fixed report" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed report" />
   </component>
 </project>
